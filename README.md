@@ -20,3 +20,12 @@ Projeyi çalıştırmak için öncelikle gerekli Python kütüphanelerini yükle
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Uygulamayı Başlatma
+
+Sanal ortamınız aktifken veya doğrudan ilgili Python yorumlayıcısı ile uygulamayı çalıştırabilirsiniz:
+
+```bash
+python app.py
+```
