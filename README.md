@@ -2,6 +2,8 @@
 
 Bu proje, **Edge-TTS** kütüphanesini kullanarak metinleri Türkçe yapay zeka seslerine dönüştüren, kullanımı kolay ve modern bir masaüstü arayüz uygulamasıdır. **CustomTkinter** kütüphanesi ile geliştirilmiştir.
 
+![image](screenshot.png)
+
 ## Özellikler
 
 - **Türkçe Ses Desteği:** Erkek ve Kadın ses seçenekleri.
